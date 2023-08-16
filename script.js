@@ -6,7 +6,7 @@ if(nameOfUser){
 }
 
 else {
-    alert("You didn't enter your name :(")
+    alert("You didn't enter your name :(");
 }
 
 console.log(nameOfUser);
